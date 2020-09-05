@@ -1,0 +1,49 @@
+.Head{
+    min-width: 800px;
+    
+    display: inline;
+}
+.Head>a>button{
+    width: 33.333%;
+    height: 100%;
+    background: burlywood;
+    font-size: 20px;
+    border: none;
+    
+    border-bottom:1px solid black;
+    height: 60px;
+}
+.Head>a>button:hover{
+    cursor: pointer;
+    background: rgb(224, 201, 171);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.SearchUnit{
+    background: burlywood;
+    width: 33.333%;
+    border: none;
+    border-bottom:1px solid black;
+    
+    height: 59px;
+    display: inline-block;
+}
+.SearchUnit>input{
+    width: 60%;
+    height: 30px;
+    margin-top: 10px;
+}
+.SearchUnit>a>button{
+    background: burlywood;
+    width: 20%;
+    font-size: 20px;
+    height: 100%;
+}
+.SearchUnit>a>button:hover{
+    width: 20%;
+    font-size: 20px;
+    height: 100%;
+    background: rgb(224, 201, 171);
+}

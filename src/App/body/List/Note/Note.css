@@ -1,0 +1,50 @@
+.Note{
+    width: 600px;
+ 
+    margin: auto;
+    margin-top: 20px;
+    background: burlywood;
+}
+.Name{
+    text-align: left;
+}
+.Author{
+    text-align: left;
+}
+.Date{
+    text-align: left;
+}
+.Notebutton{
+    width: 100%;
+    height: 40px;
+    font-size: 30px;
+    background-color: burlywood;
+}
+.Notebutton:hover{
+    background: rgb(224, 201, 171);
+}
+.Text{
+    display: none;
+}
+
+.TextV{
+
+}
+.TextV>button{
+    width: 100%;
+    height: 40px;
+    font-size: 30px;
+    background-color: burlywood;
+}
+.TextV>button:hover{
+    background: rgb(224, 201, 171);
+}
+.button2{
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+    background-color: burlywood;
+}
+.button2:hover{
+    background: rgb(224, 201, 171);
+}
