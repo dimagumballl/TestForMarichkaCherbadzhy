@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TestForMarichkaCherbadzhy/static/css/main.4f43a4ef.chunk.css",
+    "main.js": "/TestForMarichkaCherbadzhy/static/js/main.b1f386e3.chunk.js",
+    "main.js.map": "/TestForMarichkaCherbadzhy/static/js/main.b1f386e3.chunk.js.map",
+    "runtime-main.js": "/TestForMarichkaCherbadzhy/static/js/runtime-main.52278fc0.js",
+    "runtime-main.js.map": "/TestForMarichkaCherbadzhy/static/js/runtime-main.52278fc0.js.map",
+    "static/js/2.3dd2a6b7.chunk.js": "/TestForMarichkaCherbadzhy/static/js/2.3dd2a6b7.chunk.js",
+    "static/js/2.3dd2a6b7.chunk.js.map": "/TestForMarichkaCherbadzhy/static/js/2.3dd2a6b7.chunk.js.map",
+    "index.html": "/TestForMarichkaCherbadzhy/index.html",
+    "precache-manifest.50a2a9ea396480b539eead2f801e68dc.js": "/TestForMarichkaCherbadzhy/precache-manifest.50a2a9ea396480b539eead2f801e68dc.js",
+    "service-worker.js": "/TestForMarichkaCherbadzhy/service-worker.js",
+    "static/css/main.4f43a4ef.chunk.css.map": "/TestForMarichkaCherbadzhy/static/css/main.4f43a4ef.chunk.css.map",
+    "static/js/2.3dd2a6b7.chunk.js.LICENSE.txt": "/TestForMarichkaCherbadzhy/static/js/2.3dd2a6b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52278fc0.js",
+    "static/js/2.3dd2a6b7.chunk.js",
+    "static/css/main.4f43a4ef.chunk.css",
+    "static/js/main.b1f386e3.chunk.js"
+  ]
+}
